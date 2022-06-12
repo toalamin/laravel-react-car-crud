@@ -1,7 +1,7 @@
 ## Installation
 
 -   `git clone https://github.com/toalamin/laravel-react-car-crud.git`
--   `cd mastererp/`
+-   `cd laravel-react-car-crud.git/`
 -   `composer install`
 -   `cp .env.example .env`
 -   Update `.env` and set your database credentials
